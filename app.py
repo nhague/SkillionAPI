@@ -21,6 +21,8 @@ app.secret_key = '3d53393efa2592e93ef624f15cdbf478'
 account_sid = "AC5ce745d0938bc623da858b85d35b4044"
 auth_token = "be67c94ff541fe8382dea7080152f0d2"
 
+#TESTING 
+
 INFO_REQUEST_URL = "https://www.fulfilleddesires.net//SALVAGE_SITE_WEB/AU/hookme/REST-CSConnector.awp?thingie=book-appointment"
 NEW_CUSTOMER_URL = "https://www.fulfilleddesires.net/SALVAGE_SITE_WEB/AU/hookme/REST-CSConnector.awp?thingie=customer&identifier=new"
 DAILY_TASK_URL = "https://www.fulfilleddesires.net/SALVAGE_SITE_WEB/AU/hookme/REST-CSConnector.awp?thingie=create-task"
